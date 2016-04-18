@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (3.3.1)
+  - NPAudioStream (0.1.7)
+  - SnapKit (0.20.0)
+  - Socket.IO-Client-Swift (6.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - NPAudioStream (from `https://github.com/NoonPacific/NPAudioStream.git`)
+  - SnapKit
+  - Socket.IO-Client-Swift (~> 6.1.0)
+
+EXTERNAL SOURCES:
+  NPAudioStream:
+    :git: https://github.com/NoonPacific/NPAudioStream.git
+
+CHECKOUT OPTIONS:
+  NPAudioStream:
+    :commit: 01628d52d3a9c91fae2b2f77ce22cf391ec46e94
+    :git: https://github.com/NoonPacific/NPAudioStream.git
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  NPAudioStream: f1c555c7022abe032c87311914c19b725b59de63
+  SnapKit: 5fce3c1bbbf1fbd31de9aa92f33eb9fa03f15650
+  Socket.IO-Client-Swift: b0ebbd80f039992bad6d0f74730b5a540d979520
+
+COCOAPODS: 0.39.0
